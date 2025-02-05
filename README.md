@@ -25,4 +25,3 @@
 ### Contact
 - **PGP**: E9786AF92C0C6B41CF075FACE32DD4C629755455
 - **Email**: arda@member.fsf.org
-- **Website**: ardacelik.org
