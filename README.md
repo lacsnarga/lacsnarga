@@ -6,8 +6,8 @@
 - Writing **clean, maintainable, and purposeful code**.
 
 ### Principles & Interests
-- Strong supporter of **GNU, FSF, and software freedom**.
-- Interested in **Free Software in Physics & Open Science**.
+- Strong supporter of **GNU, FSF, EFF and software freedom**.
+- Interested in **FOSS Software in Physics & Open Science**.
 - Prefer **copyleft licenses** (GPL, AGPL, CC BY-SA).
 - Privacy-conscious, **reject proprietary spyware & big tech surveillance**.
 - Using **Linux (Arch, KDE, Vim)** for a minimal and efficient workflow.
@@ -16,13 +16,13 @@
 - **OS**: Arch Linux
 - **Editor**: Vim
 - **Shell**: Bash
-- **Languages**: Python, LaTeX
-- **Scientific Tools**: NumPy, SciPy, SymPy, Matplotlib, GNU Octave, Maxima, PySCF
+- **Languages**: Python, C
+- **Scientific Tools**: NumPy, SciPy, SymPy, Qiskit, GNU Octave, Maxima, PySCF, 
 - **Version Control**: Git
 - **Build Systems**: CMake, Make
 - **Document Writing**: LaTeX, Markdown, Pandoc
 
-### Get in Touch
-- **PGP**: *(Include your public key here)*
-- **Email**: *(Your email for serious inquiries)*
-- **Website**: *(If you have one, otherwise omit this)*
+### Contact
+- **PGP**: E9786AF92C0C6B41CF075FACE32DD4C629755455
+- **Email**: arda@member.fsf.org
+- **Website**: ardacelik.org
