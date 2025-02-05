@@ -1,6 +1,28 @@
-### Hi I'm Arda
-I am pursuing a bachelor's degree in physics at Middle East Technical University.
+## The only way to do great work is to deeply focus on what matters.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### About Me
+- **BSc in Physics** at **Middle East Technical University**.
+- Advocate for **Free Software, Open Science, and Ethical Computing**.
+- Writing **clean, maintainable, and purposeful code**.
 
+### Principles & Interests
+- Strong supporter of **GNU, FSF, and software freedom**.
+- Interested in **Free Software in Physics & Open Science**.
+- Prefer **copyleft licenses** (GPL, AGPL, CC BY-SA).
+- Privacy-conscious, **reject proprietary spyware & big tech surveillance**.
+- Using **Linux (Arch, KDE, Vim)** for a minimal and efficient workflow.
+
+### Tools I Use
+- **OS**: Arch Linux
+- **Editor**: Vim
+- **Shell**: Bash
+- **Languages**: Python, LaTeX
+- **Scientific Tools**: NumPy, SciPy, SymPy, Matplotlib, GNU Octave, Maxima, PySCF
+- **Version Control**: Git
+- **Build Systems**: CMake, Make
+- **Document Writing**: LaTeX, Markdown, Pandoc
+
+### Get in Touch
+- **PGP**: *(Include your public key here)*
+- **Email**: *(Your email for serious inquiries)*
+- **Website**: *(If you have one, otherwise omit this)*
