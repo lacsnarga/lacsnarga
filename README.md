@@ -1,5 +1,3 @@
-## The only way to do great work is to deeply focus on what matters.
-
 ### About Me
 - **BSc in Physics** at **Middle East Technical University**.
 - Advocate for **Free Software, Open Science, and Ethical Computing**.
@@ -11,7 +9,7 @@
 - Interested in **FOSS Software in Physics & Open Science**.
 - Prefer **copyleft licenses** ([GPL](https://www.gnu.org/licenses/quick-guide-gplv3.html), [AGPL](https://fossa.com/blog/open-source-software-licenses-101-agpl-license/), [CC](https://creativecommons.org/share-your-work/cclicenses/)).
 - Privacy-conscious, **reject proprietary spyware & big tech surveillance**.
-- Using **Linux (Arch, KDE, Vim)** for a minimal and efficient workflow.
+- Using **Linux (Arch, i3wm, Vim)** for a minimal and efficient workflow.
 
 ### Tools I Use
 - **OS**: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux)
